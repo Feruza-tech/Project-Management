@@ -1,0 +1,1 @@
+A C/C++ project management application designed to track tasks, deadlines, and project details. Developed as a second-year project with improved structure, modular design, and better data organization.
